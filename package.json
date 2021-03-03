@@ -1,0 +1,17 @@
+{
+  "name": "Testing-Bot",
+  "version": "1.0.0",
+  "description": "First of all, rename `hidden.env` to `.env`. Then get your discord bot token and replace `my-token-here` with it. Optionally, move to `index.js` and edit lines 6-12 (client configuration) as it suits you. Your bot is ready to launch!",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
